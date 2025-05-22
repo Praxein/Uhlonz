@@ -1,16 +1,13 @@
-## Hi there 👋
+<img src="https://avatars.githubusercontent.com/u/204273688?v=4](https://avatars.githubusercontent.com/u/204273688?u=7c62660e0bc4b711bba32597b276a566503a3b8a&v=4" height="70">
+<h1>ChristianPenguin3</h1>
 
-<!--
-**ChristianPenguin3/ChristianPenguin3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Projects:</h2>
 
-Here are some ideas to get you started:
+- Website: N/A
+- Blog: N/A
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Languages:</h2>
+
+![HTML](https://img.shields.io/badge/html-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
+![CSS](https://img.shields.io/badge/css-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=8E2DE2)
+<p>Thank you to <a href="https://github.com/SB-Designs">SB-Designs</a> for the graphics above</p>
